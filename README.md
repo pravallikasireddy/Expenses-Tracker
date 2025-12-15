@@ -18,4 +18,4 @@ Data is saved and loaded using file handling (JSON).
 
 ## How to Run
 ```bash
-python expense_tracker.py
+personal_expenses_tracker.py
