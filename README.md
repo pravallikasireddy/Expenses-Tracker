@@ -27,6 +27,7 @@ Personal Expense Tracker
 Select an option (1-5): 2
 
 --- Expense Summary ---
+
 Total expenditure: $600.00
 
 Spending by Category:
@@ -36,9 +37,9 @@ Spending by Category:
  - Furniture: $500.00
 
 Spending over time:
- Daily 2025-12-15: $600.00
- Weekly 2025-W50: $600.00
- Monthly 2025-12: $600.00
+ - Daily 2025-12-15: $600.00
+ - Weekly 2025-W50: $600.00
+ - Monthly 2025-12: $600.00
  
 --------------------------
 <img width="1244" height="706" alt="image" src="https://github.com/user-attachments/assets/7559f1f1-4676-4491-b721-4f4a8da77c26" />
