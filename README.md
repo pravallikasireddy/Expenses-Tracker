@@ -12,7 +12,7 @@ Data is saved and loaded using file handling (JSON).
 - Graphical visualization using Matplotlib
 
 ## Files
-- expense_tracker.py → Main Python program
+- personal_expenses_tracker.py → Main Python program
 - expenses.json → Stores expense data
 - output screenshots included
 
